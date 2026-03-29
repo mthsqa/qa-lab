@@ -1,0 +1,15 @@
+# Local / generated
+career-ops/
+__pycache__/
+*.pyc
+*.log
+*.txt
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Scratch scripts kept only on this machine
+*.ps1
+*.ahk
+macro_interacao.py
+requirements.txt
