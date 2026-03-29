@@ -43,3 +43,7 @@ ID, precondição, passos, dado de entrada, resultado esperado, pós-condição.
 ## Critérios de aceite
 
 Escreva em Given/When/Then só quando o comportamento for observável. Evite aceite vago do tipo "funciona bem".
+
+## Tipos de suíte
+
+Smoke: o sistema sobe e o caminho crítico passa. Sanity: recorte após um fix. Regressão: o que não pode quebrar.
