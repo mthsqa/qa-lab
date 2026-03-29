@@ -10,3 +10,9 @@ Objetivo: registrar fundamentos, checklists e exemplos reutilizáveis de Cypress
 - Playwright (E2E web e API request)
 - Testes de API (contrato, status, auth)
 - Checklists de smoke, regressão e exploração
+
+## Organização
+
+- `notes/` — anotações de estudo
+- `checklists/` — listas objetivas para execução
+- `exemplos/` — snippets de automação
