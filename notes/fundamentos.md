@@ -35,3 +35,7 @@ Para fluxos com status (rascunho, enviado, aprovado), cubra transições permiti
 ## Caso vs cenário
 
 Caso de teste é o item executável (dado, ação, resultado). Cenário descreve a história; ainda precisa de dados e oráculo.
+
+## Modelo mínimo de caso
+
+ID, precondição, passos, dado de entrada, resultado esperado, pós-condição.
