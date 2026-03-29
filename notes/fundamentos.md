@@ -23,3 +23,7 @@ Agrupe entradas que devem se comportar igual. Um representante por classe válid
 ## Valor limite
 
 Defeitos aparecem nas bordas: min, min-1, max, max+1, zero e vazio.
+
+## Tabela de decisão
+
+Quando regras de negócio combinam condições, modele ações por combinação em vez de lista solta de casos.
