@@ -27,3 +27,7 @@ Defeitos aparecem nas bordas: min, min-1, max, max+1, zero e vazio.
 ## Tabela de decisão
 
 Quando regras de negócio combinam condições, modele ações por combinação em vez de lista solta de casos.
+
+## Estados
+
+Para fluxos com status (rascunho, enviado, aprovado), cubra transições permitidas e as bloqueadas.
