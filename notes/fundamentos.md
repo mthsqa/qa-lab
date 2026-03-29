@@ -55,3 +55,7 @@ Severidade = impacto no produto. Prioridade = ordem de correção. Um visual lev
 ## Template de bug
 
 Título objetivo, ambiente, passos, esperado vs obtido, evidência, gravidade, dados de teste.
+
+## Evidência
+
+Screenshot, HAR/network, log de console, ID da massa e horário. Sem isso o dev reproduz no escuro.
