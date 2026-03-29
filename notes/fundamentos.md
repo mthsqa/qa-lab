@@ -19,3 +19,7 @@ Particionamento de equivalência, valor limite, tabela de decisão e transição
 ## Equivalência
 
 Agrupe entradas que devem se comportar igual. Um representante por classe válida e por classe inválida.
+
+## Valor limite
+
+Defeitos aparecem nas bordas: min, min-1, max, max+1, zero e vazio.
