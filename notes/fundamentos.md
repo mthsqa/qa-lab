@@ -63,3 +63,7 @@ Screenshot, HAR/network, log de console, ID da massa e horário. Sem isso o dev 
 ## Oráculo
 
 Compare com regra de negócio, sistema de referência, consistência interna e heurísticas (consistência, padrões).
+
+## Ambiente e massa
+
+Separe dado de produção. Prefira massa descartável, idempotente e identificável no relatório.
