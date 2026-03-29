@@ -51,3 +51,7 @@ Smoke: o sistema sobe e o caminho crítico passa. Sanity: recorte após um fix. 
 ## Bug: severidade vs prioridade
 
 Severidade = impacto no produto. Prioridade = ordem de correção. Um visual leve pode ser alta prioridade em véspera de release.
+
+## Template de bug
+
+Título objetivo, ambiente, passos, esperado vs obtido, evidência, gravidade, dados de teste.
