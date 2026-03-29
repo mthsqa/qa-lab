@@ -39,3 +39,7 @@ Caso de teste é o item executável (dado, ação, resultado). Cenário descreve
 ## Modelo mínimo de caso
 
 ID, precondição, passos, dado de entrada, resultado esperado, pós-condição.
+
+## Critérios de aceite
+
+Escreva em Given/When/Then só quando o comportamento for observável. Evite aceite vago do tipo "funciona bem".
