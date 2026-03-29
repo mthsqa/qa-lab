@@ -15,3 +15,7 @@ Muitos testes rápidos na base, poucos E2E no topo. E2E demais deixa o feedback 
 ## Caixa preta
 
 Particionamento de equivalência, valor limite, tabela de decisão e transição de estados.
+
+## Equivalência
+
+Agrupe entradas que devem se comportar igual. Um representante por classe válida e por classe inválida.
