@@ -7,3 +7,7 @@ Erro é o engano humano. Defeito é o que fica no produto. Falha é o comportame
 - Unitário: isolado, rápido, barato
 - Integração: módulos conversando
 - Sistema / E2E: fluxo do usuário
+
+## Pirâmide
+
+Muitos testes rápidos na base, poucos E2E no topo. E2E demais deixa o feedback lento e instável.
