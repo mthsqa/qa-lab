@@ -47,3 +47,7 @@ Escreva em Given/When/Then só quando o comportamento for observável. Evite ace
 ## Tipos de suíte
 
 Smoke: o sistema sobe e o caminho crítico passa. Sanity: recorte após um fix. Regressão: o que não pode quebrar.
+
+## Bug: severidade vs prioridade
+
+Severidade = impacto no produto. Prioridade = ordem de correção. Um visual leve pode ser alta prioridade em véspera de release.
