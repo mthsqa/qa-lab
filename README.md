@@ -16,3 +16,7 @@ Objetivo: registrar fundamentos, checklists e exemplos reutilizáveis de Cypress
 - `notes/` — anotações de estudo
 - `checklists/` — listas objetivas para execução
 - `exemplos/` — snippets de automação
+
+## Como usar
+
+Leia as notas na ordem dos arquivos e adapte os exemplos para um sistema real antes de promover a suíte.
