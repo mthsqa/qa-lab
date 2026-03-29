@@ -59,3 +59,7 @@ Título objetivo, ambiente, passos, esperado vs obtido, evidência, gravidade, d
 ## Evidência
 
 Screenshot, HAR/network, log de console, ID da massa e horário. Sem isso o dev reproduz no escuro.
+
+## Oráculo
+
+Compare com regra de negócio, sistema de referência, consistência interna e heurísticas (consistência, padrões).
