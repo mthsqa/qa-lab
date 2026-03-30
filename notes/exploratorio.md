@@ -9,3 +9,7 @@ Explorar o fluxo de cadastro com e-mails inválidos e duplicados, observando men
 ## Heurísticas úteis
 
 CRUD, interrupção (refresh, back), permissão, dados extremos, concorrência simples (dois abas).
+
+## Relato da sessão
+
+O que foi coberto, o que ficou de fora, bugs, dúvidas e próximos charters.
