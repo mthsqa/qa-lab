@@ -9,3 +9,7 @@ Valide contrato, status, corpo, headers e efeitos colaterais. UI não substitui 
 ## Auth
 
 Sem token, token expirado, token de outro usuário e token válido. IDOR é caso clássico.
+
+## Contrato
+
+Campos obrigatórios, tipos, nulos, listas vazias e campos extras que o cliente não deveria quebrar.
