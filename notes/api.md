@@ -13,3 +13,7 @@ Sem token, token expirado, token de outro usuário e token válido. IDOR é caso
 ## Contrato
 
 Campos obrigatórios, tipos, nulos, listas vazias e campos extras que o cliente não deveria quebrar.
+
+## Idempotência
+
+GET não muda estado. PUT/DELETE repetidos devem ser previsíveis. POST duplicado não pode criar lixo silencioso.
