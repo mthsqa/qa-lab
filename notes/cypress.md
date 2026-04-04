@@ -9,3 +9,7 @@ Prefira `data-testid`. CSS/XPath frágeis quebram no primeiro redesign.
 ## Comandos úteis
 
 `cy.session` para login, `cy.intercept` para stub/assert de API, `cy.clock` para tempo.
+
+## Flake
+
+Causas comuns: animação, id dinâmico, race de request, ambiente compartilhado. Trate a causa, não só retry.
