@@ -13,3 +13,7 @@ Prefira `data-testid`. CSS/XPath frágeis quebram no primeiro redesign.
 ## Flake
 
 Causas comuns: animação, id dinâmico, race de request, ambiente compartilhado. Trate a causa, não só retry.
+
+## Page Object enxuto
+
+Encapsule seletores e ações repetidas. Não esconda asserções demais: o spec precisa continuar legível.
