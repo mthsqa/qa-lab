@@ -9,3 +9,7 @@ Auto-wait forte, vários browsers, `request` para API no mesmo teste, trace view
 ## Isolamento
 
 Cada teste em contexto novo. Storage state para reutilizar login sem acoplar a ordem da suíte.
+
+## Trace e debug
+
+`npx playwright test --trace on` e `playwright show-trace`. Melhor que screenshot solto.
