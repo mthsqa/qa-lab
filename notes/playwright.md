@@ -13,3 +13,7 @@ Cada teste em contexto novo. Storage state para reutilizar login sem acoplar a o
 ## Trace e debug
 
 `npx playwright test --trace on` e `playwright show-trace`. Melhor que screenshot solto.
+
+## API no Playwright
+
+`request.get/post` para preparar massa e validar backend sem abrir a UI.
