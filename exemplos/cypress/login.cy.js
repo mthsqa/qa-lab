@@ -3,3 +3,7 @@ describe('login', () => {
     cy.visit('/login')
     cy.get('[data-testid=email]').type('qa@example.com')
     cy.get('[data-testid=password]').type('errada')
+    cy.get('[data-testid=submit]').click()
+    cy.contains('Credenciais inválidas').should('be.visible')
+  })
+})
