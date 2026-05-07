@@ -5,3 +5,6 @@ Setup do lab e revisão da pirâmide de testes.
 
 ## 2026-03-31
 Pratiquei modelo de caso de teste e critérios de aceite.
+
+## 2026-04-01
+Caixa preta: equivalência, valor limite e tabela de decisão.
