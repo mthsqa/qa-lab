@@ -8,3 +8,6 @@ Pratiquei modelo de caso de teste e critérios de aceite.
 
 ## 2026-04-01
 Caixa preta: equivalência, valor limite e tabela de decisão.
+
+## 2026-04-02
+Rascunho do template de bug com evidências.
