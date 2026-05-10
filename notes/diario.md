@@ -14,3 +14,6 @@ Rascunho do template de bug com evidências.
 
 ## 2026-04-03
 Sessão exploratória: charter curto no fluxo de cadastro.
+
+## 2026-04-04 — 2026-04-05
+API: 401 vs 403, nulos e listas vazias no contrato.
