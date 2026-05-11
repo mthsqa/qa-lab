@@ -17,3 +17,6 @@ Sessão exploratória: charter curto no fluxo de cadastro.
 
 ## 2026-04-04 — 2026-04-05
 API: 401 vs 403, nulos e listas vazias no contrato.
+
+## 2026-04-06 — 2026-04-08
+Cypress: data-testid, waits na UI, spec de login e page object.
