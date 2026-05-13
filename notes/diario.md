@@ -23,3 +23,6 @@ Cypress: data-testid, waits na UI, spec de login e page object.
 
 ## 2026-04-09 — 2026-04-12
 Playwright: locators, storage state, trace viewer e flake.
+
+## 2026-04-13 — 2026-04-16
+Health check, smoke, regressão de permissão e tab order.
