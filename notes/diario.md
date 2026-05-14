@@ -26,3 +26,6 @@ Playwright: locators, storage state, trace viewer e flake.
 
 ## 2026-04-13 — 2026-04-16
 Health check, smoke, regressão de permissão e tab order.
+
+## 2026-04-17 — 2026-04-20
+CI no PR, classificação de falha, massa idempotente e IDOR.
