@@ -29,3 +29,6 @@ Health check, smoke, regressão de permissão e tab order.
 
 ## 2026-04-17 — 2026-04-20
 CI no PR, classificação de falha, massa idempotente e IDOR.
+
+## 2026-04-21 — 2026-04-24
+README, sanity vs smoke, duas abas e oráculos de teste.
