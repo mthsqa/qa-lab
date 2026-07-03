@@ -32,3 +32,6 @@ CI no PR, classificação de falha, massa idempotente e IDOR.
 
 ## 2026-04-21 — 2026-04-24
 README, sanity vs smoke, duas abas e oráculos de teste.
+
+## 2026-04-27 — 2026-04-29
+Ajustes nos exemplos Cypress/Playwright e mensagens de erro.
