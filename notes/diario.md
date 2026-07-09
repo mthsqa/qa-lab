@@ -35,3 +35,6 @@ README, sanity vs smoke, duas abas e oráculos de teste.
 
 ## 2026-04-27 — 2026-04-29
 Ajustes nos exemplos Cypress/Playwright e mensagens de erro.
+
+## 2026-05-02 — 2026-05-06
+Artefatos de CI, label no input, DELETE idempotente e intercept.
