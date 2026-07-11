@@ -38,3 +38,6 @@ Ajustes nos exemplos Cypress/Playwright e mensagens de erro.
 
 ## 2026-05-02 — 2026-05-06
 Artefatos de CI, label no input, DELETE idempotente e intercept.
+
+## 2026-05-07 — 2026-05-11
+Isolamento Playwright, severidade, charter de senha e smoke de health.
