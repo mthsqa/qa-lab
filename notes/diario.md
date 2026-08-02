@@ -44,3 +44,6 @@ Isolamento Playwright, severidade, charter de senha e smoke de health.
 
 ## 2026-05-12 — 2026-05-14
 CRUD na regressão, flake/retry e reorganização do índice.
+
+## 2026-07-01 — 2026-07-11
+Retomada do lab, pirâmide vs E2E demais, request+UI e a11y no smoke.
