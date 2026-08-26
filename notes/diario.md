@@ -50,3 +50,6 @@ Retomada do lab, pirâmide vs E2E demais, request+UI e a11y no smoke.
 
 ## 2026-07-29 — 2026-08-01
 Limpeza dos exemplos e README atualizado.
+
+## 2026-08-26
+Revisão geral das notas e conferência dos exemplos.
