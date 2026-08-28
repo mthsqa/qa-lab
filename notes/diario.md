@@ -56,3 +56,6 @@ Revisão geral das notas e conferência dos exemplos.
 
 ## 2026-08-27
 Massa de teste: descartável, idempotente e identificável.
+
+## 2026-08-28
+Revisão da pirâmide: manter E2E só no caminho crítico.
