@@ -53,3 +53,6 @@ Limpeza dos exemplos e README atualizado.
 
 ## 2026-08-26
 Revisão geral das notas e conferência dos exemplos.
+
+## 2026-08-27
+Massa de teste: descartável, idempotente e identificável.
