@@ -83,3 +83,6 @@ Exploratório: charter, tempobox e o que ficou de fora.
 
 ## 2026-09-05
 A11y rápido: teclado, foco visível e label no input.
+
+## 2026-09-06
+Massa de teste: descartável, idempotente e identificável.
