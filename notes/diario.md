@@ -125,3 +125,6 @@ Oráculo de teste: esperado vs obtido precisa ser observável.
 
 ## 2026-09-19
 Seletores: preferir data-testid, role e label.
+
+## 2026-09-20
+Flake: tratar causa (animação, rede, massa), não só retry.
