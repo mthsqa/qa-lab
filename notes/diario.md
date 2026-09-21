@@ -128,3 +128,6 @@ Seletores: preferir data-testid, role e label.
 
 ## 2026-09-20
 Flake: tratar causa (animação, rede, massa), não só retry.
+
+## 2026-09-21
+API: cobrir 401, 403, contrato e idempotência.
