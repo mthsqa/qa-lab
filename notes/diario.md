@@ -137,3 +137,6 @@ Smoke no PR; regressão maior em main/nightly.
 
 ## 2026-09-23
 Bug report: passos, esperado, obtido e evidência.
+
+## 2026-09-24
+Exploratório: charter, tempobox e o que ficou de fora.
