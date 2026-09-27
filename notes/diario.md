@@ -146,3 +146,6 @@ A11y rápido: teclado, foco visível e label no input.
 
 ## 2026-09-26
 Massa de teste: descartável, idempotente e identificável.
+
+## 2026-09-27
+Revisão da pirâmide: manter E2E só no caminho crítico.
