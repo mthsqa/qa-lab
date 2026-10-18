@@ -209,3 +209,6 @@ Massa de teste: descartável, idempotente e identificável.
 
 ## 2026-10-17
 Revisão da pirâmide: manter E2E só no caminho crítico.
+
+## 2026-10-18
+Oráculo de teste: esperado vs obtido precisa ser observável.
