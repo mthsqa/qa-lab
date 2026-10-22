@@ -221,3 +221,6 @@ Flake: tratar causa (animação, rede, massa), não só retry.
 
 ## 2026-10-21
 API: cobrir 401, 403, contrato e idempotência.
+
+## 2026-10-22
+Smoke no PR; regressão maior em main/nightly.
