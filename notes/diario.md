@@ -254,3 +254,6 @@ API: cobrir 401, 403, contrato e idempotência.
 
 ## 2026-11-01
 Smoke no PR; regressão maior em main/nightly.
+
+## 2026-11-02
+Bug report: passos, esperado, obtido e evidência.
