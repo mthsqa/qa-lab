@@ -302,3 +302,6 @@ Revisão da pirâmide: manter E2E só no caminho crítico.
 
 ## 2026-11-17
 Oráculo de teste: esperado vs obtido precisa ser observável.
+
+## 2026-11-18
+Seletores: preferir data-testid, role e label.
