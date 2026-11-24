@@ -320,3 +320,6 @@ Bug report: passos, esperado, obtido e evidência.
 
 ## 2026-11-23
 Exploratório: charter, tempobox e o que ficou de fora.
+
+## 2026-11-24
+A11y rápido: teclado, foco visível e label no input.
